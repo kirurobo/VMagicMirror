@@ -75,6 +75,7 @@ Unity 2020.3系でUnityプロジェクト(本レポジトリの`VMagicMirror`フ
     * [SharpDX.DirectInput](https://www.nuget.org/packages/SharpDX.DirectInput/)
 * [RawInput.Sharp](https://www.nuget.org/packages/RawInput.Sharp/) 0.0.3
 * [uWindowCapture](https://github.com/hecomi/uWindowCapture) v1.0.2
+* [uOSC](https://github.com/hecomi/uOSC) v2.2.0
 * DOTween (アセットストアから)
 * [Fly,Baby. ver1.2](https://nanakorobi-hi.booth.pm/items/1629266)
 * [LaserLightShader](https://noriben.booth.pm/items/2141514)
