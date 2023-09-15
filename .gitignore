@@ -106,9 +106,11 @@ sysinfo.txt
 # Assets to ignore (from BOOTH)
 
 /VMagicMirror/Assets/noribenLaserlight/
+/VMagicMirror/Assets/NoribenLunch/
 /VMagicMirror/Assets/Butterfly/
 
 /VMagicMirror/Assets/noribenLaserlight.meta
+/VMagicMirror/Assets/NoribenLunch.meta
 /VMagicMirror/Assets/Butterfly.meta
 
 # Assets to ignore (for DEBUG purpose installed asset in author's env)
